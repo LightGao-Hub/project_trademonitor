@@ -4,7 +4,7 @@
   "description": "监控服务",
   "dependencies": {
     "@antv/g2": "^3.4.8",
-    "express": "4.10.2",
+    "express": "4.17.3",
     "kafka-node": "3.0.1",
     "socket.io": "1.4.8",
     "strip-json-comments": "2.0.1"
